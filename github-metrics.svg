@@ -71,8 +71,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.0134887488891" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="335.0134887488891" y="0" width="124.98651125111094" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.00857336122954" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="335.00857336122954" y="0" width="124.99142663877046" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -84,7 +84,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>92.6 kB</div>
+                                <div>92.5 kB</div>
                                 <div>72.83%</div>
                             </small>
                         </div>
